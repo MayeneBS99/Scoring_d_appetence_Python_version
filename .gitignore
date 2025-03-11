@@ -1,0 +1,5 @@
+# files to ignore
+
+scoring_env/
+*pyc
+__pycache__/
